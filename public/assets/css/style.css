@@ -1,0 +1,41 @@
+#product-images .img-thumbnail {
+    position: relative;
+}
+#product-images .remove-image {
+    position: absolute;
+    top: -6px;
+    margin-left: -6px;
+}
+#product-images .remove-image i {
+    font-size: 24px;
+}
+#product-images .img-thumbnail {
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.invoice {
+    margin: 0;
+    padding: 10px;
+}
+.invoice blockquote {
+    font-size: 14px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+.item-line {
+    margin: 4px 0px;
+}
+
+.margin-4-0 {
+    margin: 4px 0px;
+}
+
+.customer-create-billing .form-inline input {
+    width: 49.6%;
+}
+.customer-create-shipping .form-inline input {
+    width: 49.6%;
+}
